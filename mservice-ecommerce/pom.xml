@@ -17,7 +17,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>mservice-user</module>
+        <module>mservice-consumer</module>
         <module>mservice-order</module>
         <module>mservice-shoppingcart</module>
         <module>mservice-product</module>

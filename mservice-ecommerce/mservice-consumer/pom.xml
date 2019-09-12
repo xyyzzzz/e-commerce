@@ -13,5 +13,8 @@
     <artifactId>mservice-user</artifactId>
 
 
+    <build>
+        <finalName>mservice-user</finalName>
+    </build>
 
 </project>
