@@ -1,4 +1,4 @@
-package com.ecommerce.mservicce.user.index;
+package com.ecommerce.mservicce.consumer.index;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

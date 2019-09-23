@@ -1,4 +1,4 @@
-package com.ecommerce.mservicce.user;
+package com.ecommerce.mservicce.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
