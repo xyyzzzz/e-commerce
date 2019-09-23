@@ -21,6 +21,7 @@
         <module>mservice-order</module>
         <module>mservice-shoppingcart</module>
         <module>mservice-product</module>
+        <module>mservice-pay</module>
     </modules>
 
     <properties>
